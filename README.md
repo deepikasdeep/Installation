@@ -5,3 +5,6 @@ Docker installation steps- https://docs.aws.amazon.com/serverless-application-mo
 
 
 Jenkins installation steps- https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+
+
+Tomcat installation steps-   https://tomcat.apache.org/download-90.cgi
