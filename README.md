@@ -1,2 +1,1 @@
-# Installation
-Installation steps for jenkins,tomcat,docker,k8s,sonar and nexus
+Kubernetes cluster setup steps-  https://www.linkedin.com/pulse/set-up-kubernetes-cluster-using-kubeadm-bhim-kumar/
